@@ -1,0 +1,12 @@
+{
+  "cardObjectArray": [
+    { "isOpen": false, "text": 60 },
+    { "isOpen": false, "text": 60 },
+    { "isOpen": false, "text": 74 },
+    { "isOpen": true, "text": 56 },
+    { "isOpen": true, "text": 56 },
+    { "isOpen": false, "text": 74 }
+  ],
+  "clickedIndexArray": [],
+  "counter": 0
+}
